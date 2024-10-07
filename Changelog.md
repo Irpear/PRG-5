@@ -3,3 +3,4 @@ onderzoeken long-shortlist frameworks
 kiezen shortlist en schrijven inleiding
 aanmaken deze repository
 installeren Laravel (herd) (denk ik)
+huh
